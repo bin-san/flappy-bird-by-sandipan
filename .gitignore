@@ -1,0 +1,10 @@
+/.swcrc
+/Bird.ts
+/build.js
+/main.js.map
+/main.ts
+/node_modules
+/package.json
+/pnpm-lock.yaml
+/test.css
+/test.js
