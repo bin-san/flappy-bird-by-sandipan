@@ -232,7 +232,7 @@
           console.log("All resources loaded!");
           clearInterval(this.resourceCheckInterval);
           this.startGame();
-          this.canvas.onclick = this.flap.bind(this);
+          window.onclick = this.flap.bind(this);
         }
       }, 500);
     }
